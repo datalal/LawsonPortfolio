@@ -68,7 +68,7 @@ img.imageflow {
 	width: 25%;
 	margin: auto;
 	display: inline-block;
-	border: 1px solid;
+/*	border: 1px solid;*/
 	overflow: hidden;
 	-webkit-box-shadow: 5px 5px 5px #111;
           box-shadow: 5px 5px 5px #111; 
@@ -81,8 +81,8 @@ img.imageflow {
 }
 
 .imageflow img:hover{
-	height: 50%;
-	width: 50%;
+	height: 40%;
+	width: 40%;
 }
 
 
@@ -101,20 +101,24 @@ img.imageflow {
 .name{
     color:grey;
 font-family: 'Great Vibes', cursive;
+text-align: right;
 }
 
 li, h2, h3, h4, p, ol {
-	padding-left: 5px;
 	color:white;
 		font-family: monospace;
+		text-align: left;
+		margin-left: 5px;
 
 }
 
 
 #contact{
-	margin: auto;
 	width: 60%;
 	text-align: left;
+	margin-left: 5px;
+	margin-bottom: 15px;
+
 	
 }
 
