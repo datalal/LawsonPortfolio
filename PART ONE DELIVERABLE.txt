@@ -5,8 +5,6 @@ Make: Create an HTML file and build a skeleton for your portfolio site. While we
 
 Somewhere on the site:
 
-o A block quote 
 
- Pretty up your home page’s row of images by using at least 2 different CSS3 effects. o Examples might be border-image, box-shadow, or border-radius #
 
- Style your contact form & submit button on your “Contact” page  Put your whole project on Github Submit: In the next tile submit your Github link
+ Put your whole project on Github Submit: In the next tile submit your Github link
